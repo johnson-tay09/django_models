@@ -9,4 +9,10 @@ Today you’ll build out a project with one model and wire up that model using D
 Set up a project in Django. Create a blog website using Models.
 
 ### Pull Request
-lab27 PR https://github.com/johnson-tay09/web-scraper/compare/rework18?expand=1
+lab27 PR https://github.c
+
+asd
+as
+d
+asd
+
